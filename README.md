@@ -1,8 +1,8 @@
 # Largest Number in Array 
  
 ## Student Information -
- **Name**: lemi
-- **Student ID**: RMNS/707/23
+ **Name**: lemi Tadesse
+- **Student ID**: RMNS/7076/23
 - **Course**: DSA
  
 ## Algorithm 
