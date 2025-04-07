@@ -22,10 +22,10 @@ int findThirdLargest(int arr[], int size) {
 }
 
 int main() {
-    int arr[] = {120, 45, 67, 89, 34, 23, 90, 11}; // Example array
-    int size = sizeof(arr) / sizeof(arr[0]); // Calculate array size
+    int arr[] = {120, 45, 67, 89, 34, 23, 90, 11}; 
+    int size = sizeof(arr) / sizeof(arr[0]); 
 
-    int thirdLargest = findThirdLargest(arr, size); // Find the third largest number
+    int thirdLargest = findThirdLargest(arr, size); 
     cout << "The third largest number in the array is: " << thirdLargest << endl;
 
     return 0;
